@@ -2,7 +2,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TestPage from './components/test';
+
 import CityList from './components/CityList';
 
 let cities = [{ 'id': 1, 'cityname': "Santiago", 'temperature': "31°C", 'citytime': "18:52", 'weather': "sun.png" },
